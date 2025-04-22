@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related web APIs "
   contactDetails:
-    name: "Sandra Harald - webhook preactice Owner"
+    name: "Sandra Harald - weebhoo preactice Owner"
     email: "sandra@eazybank.com"
   onCallSupport:
     - (617) 432-2356
